@@ -11,7 +11,7 @@
 int main(int argc, char **argv) {
 
   printf("Yi Luo\n
-          Computer Science\n");
+          computer Science\n");
 
   return 0;
 }
